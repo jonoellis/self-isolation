@@ -1,1 +1,1 @@
-# Some tips to surviving COVID-19 self-isolation
+# Some tips for surviving COVID-19 self-isolation
