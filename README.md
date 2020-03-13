@@ -1,10 +1,11 @@
 # Some tips for surviving COVID-19 self-isolation
 
 Tweet:
-I've put together a little side project which collects together some tips for surviving self-isolation and quarantine due to #COVID19. 
+I've put together a little personal project which collects together some tips for surviving self-isolation and quarantine due to #COVID19. 
 
-https://covid19-self-isolation.netlify.com/
+👉 https://covid19-self-isolation.netlify.com/ 👈
 
+Take care everyone. ❤️
 
 
 * Github: https://github.com/jonoellis/self-isolation
